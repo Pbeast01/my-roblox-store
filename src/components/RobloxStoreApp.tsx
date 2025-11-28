@@ -8,8 +8,8 @@ import {
 // Menggunakan gambar placeholder berkualitas tinggi yang sesuai tema Neon/Gaming
 // karena environment ini tidak mendukung import file lokal secara langsung.
 const ASSETS = {
-  heroBanner: "src/assets/hero-banner.jpg", // Cyberpunk City Look
-  qris: "src/assets/qris-image.jpg", // Placeholder QRIS Image
+  heroBanner: "my-roblox-store/src/assets/hero-banner.jpg", // Cyberpunk City Look
+  qris: "my-roblox-store/src/assets/qris-image.jpg", // Placeholder QRIS Image
 };
 
 // ==================== TYPES ====================
